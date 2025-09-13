@@ -1,5 +1,5 @@
 context:
-  version: "4.3.4"
+  version: "4.4.1"
 
 package:
   name: typescript-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/typescript-language-server/-/typescript-language-server-${{ version }}.tgz
-  sha256: 9a8aef1dd532f9b4b38087b002b949d9e761ab31fe1dc2f0bfe43ac223150385
+  sha256: 133fdad406e2cba2fb763b0950914a17bc2aa19d2f4e689ba8a6c706427ed3cf
 
 build:
   number: 0
